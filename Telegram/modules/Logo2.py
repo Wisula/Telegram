@@ -104,7 +104,7 @@ async def logo_gen(event):
     )
     x = (image_width - w) / 2
     y = (image_height - h) / 2
-    draw.text((x, y), name, font=font, fill="white"
+    draw.text((x, y), name, font=font, fill="white")
               stroke_width=strke, stroke_fill="black")
     flnme = f"logo.png"
     img.save(flnme, "png")
