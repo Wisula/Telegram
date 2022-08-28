@@ -254,13 +254,13 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "source_btn"),
-                                url="https://github.com/ITZ-ZAID/Telegram",
+                                url="https://github.com/wisula",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/TheSupportChat',
+                                url='https://t.me/EpicChats',
                             ),
                             InlineKeyboardButton(
                                 text="Help",
@@ -268,7 +268,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/TheUpdatesChannel",
+                                url="https://t.me/EpicBotsSl",
                             ),
                         ],
                     ]
@@ -433,7 +433,7 @@ def get_help(update: Update, context: CallbackContext):
             return
 
         update.effective_message.reply_text(
-            "Contact me in PM to get the list of possible commands.",
+            "Hello My friend😎 Contact me in PM to get the list of possible commands🤭",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
