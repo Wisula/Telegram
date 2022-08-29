@@ -120,7 +120,7 @@ async def szcbot(_, message: Message):
 
            if "Lebyy_Dev" in textmsg:
 
-               textmsg = textmsg.replace("Lebyy_Dev", "Methindu Wisula"")
+               textmsg = textmsg.replace("Lebyy_Dev", "Methindu Wisula")
 
            if "God Brando" in textmsg:
 
