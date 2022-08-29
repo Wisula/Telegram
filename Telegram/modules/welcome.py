@@ -217,7 +217,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "Oh hi, my creator.", reply_to_message_id=reply
+                    "Oh my God😱, My Owner🤩", reply_to_message_id=reply
                 )
                 welcome_log = (
                     f"{html.escape(chat.title)}\n"
@@ -229,7 +229,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome Devs
             elif new_mem.id in DEV_USERS:
                 update.effective_message.reply_text(
-                    "Whoa! A member of the Anie just joined!",
+                    "Whoa! A member of the Simuki just joined!",
                     reply_to_message_id=reply,
                 )
                 continue
@@ -267,7 +267,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome yourself
             elif new_mem.id == bot.id:
                 update.effective_message.reply_text(
-                    "Thanks for adding me! Join @AniebotSupports for support.",
+                    "**UWU😌**Thanks for adding me! Join @EpicBotsSl for Updates 🙄. My cute Owner is @wisula4 🤭",
                     reply_to_message_id=reply,
                 )
                 continue
