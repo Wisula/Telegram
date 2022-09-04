@@ -17,7 +17,7 @@ from Telegram.modules.helper_funcs.extraction import extract_user, extract_user_
 from Telegram.modules.language import gs
 from Telegram.modules.log_channel import loggable
 from ..modules.helper_funcs.anonymous import user_admin, AdminPerms
-
+from fsub import ForceSub
 
 @zaid(command="promote", can_disable=False)
 @connection_status
@@ -26,6 +26,9 @@ from ..modules.helper_funcs.anonymous import user_admin, AdminPerms
 @user_admin(AdminPerms.CAN_PROMOTE_MEMBERS)
 @loggable
 def promote(update: Update, context: CallbackContext) -> Optional[str]:
+    FSub = await ForceSub(bot, update)
+    if FSub == 400:
+        return
     bot = context.bot
     args = context.args
 
