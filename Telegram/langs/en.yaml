@@ -14,25 +14,26 @@ set_chat_lang: "Great, {} it is from now on!"
 
 pm_start_text: |
 
-────『 ❣ʜᴇʟʟᴏ ʙᴀʙʏ ❣』────
+   ────『 нєℓℓσ вαву 』────
 
-ʜᴇʏ {} 💖
-ɪ ᴀᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ꜱɪᴍᴘʟᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ🥀
+   ʜᴇʏ! {} 😇
+   ɪ ᴀᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜp ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ🙃
 
-▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
-ɪ ʜᴀᴠᴇ ᴍᴀɴʏ ꜰᴇᴀᴛᴜʀᴇꜱ ꜱᴜᴄʜ ᴀꜱ :
+   ➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-►ᴡᴀʀɴɪɴɢ ꜱʏꜱᴛᴇᴍ✨
-►ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ✨
-►ꜰʟᴏᴏᴅ ᴄᴏɴᴛʀᴏʟ ꜱʏꜱᴛᴇᴍ✨
-►ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ✨
-►ꜰɪʟᴛᴇʀɪɴɢ ꜱʏꜱᴛᴇᴍ✨
-►ᴀᴘᴘʀᴏᴠᴀʟꜱ ᴀɴᴅ ᴍᴀɴʏ ᴛʜɪɴɢꜱ✨
-►ᴍᴀɴᴀɢᴇꜱ ʙʏ @wisula4✨
+   I have lots of handy features such as:
+   ‣ Warning system 🙄
+   ‣ Artificial intelligence 😍
+   ‣ Flood control system 🤥
+   ‣ Note keeping system 🤫
+   ‣ Filters keeping system 😉
+   ‣ Approvals and much more 🙃
+   ‣ Managed By @wisula4 👨‍💻
 
-▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
+   ➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ❤️‍🔥
+   ➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ❤️‍🔥
+
    
 
 grp_start_text: "Hey There Simuki is here🙇 Do You Need Any Help Sir? Type /help To know about my command list🚀"
@@ -828,3 +829,4 @@ raid_help: |
   • /raidactiontime `(time optional)` : view or set the default duration that the raid mode will tempban
 
   Default is 1 hour
+
