@@ -13,38 +13,30 @@ curr_chat_lang: "Hey. Your current language is {}, select the one you want from 
 set_chat_lang: "Great, {} it is from now on!"
 
 pm_start_text: |
-────「 Anie] 」────
-   ʜᴇʏ! {}
-   ɪ ᴀᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜp ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ.
+
+   ────『 нєℓℓσ вαву 』────
+
+   ʜᴇʏ! {} 😇
+   ɪ ᴀᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜp ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ🙃
+
    ➖➖➖➖➖➖➖➖➖➖➖➖➖
+
    I have lots of handy features such as:
-   ‣ Warning system
-   ‣ Artificial intelligence
-   ‣ Flood control system
-   ‣ Note keeping system
-   ‣ Filters keeping system
-   ‣ Approvals and much more.
-   ‣ Managed By @Timesisnotwaiting.
+   ‣ Warning system 🙄
+   ‣ Artificial intelligence 😍
+   ‣ Flood control system 🤥
+   ‣ Note keeping system 🤫
+   ‣ Filters keeping system 😉
+   ‣ Approvals and much more 🙃
+   ‣ Managed By @wisula4 👨‍💻
+
    ➖➖➖➖➖➖➖➖➖➖➖➖➖
-   ➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪᴇs ××
-   ────「 Anie] 」────
-   ʜᴇʏ! {}
-   ɪ ᴀᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜp ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ.
-   ➖➖➖➖➖➖➖➖➖➖➖➖➖
-   I have lots of handy features such as:
-   ‣ Warning system
-   ‣ Artificial intelligence
-   ‣ Flood control system
-   ‣ Note keeping system
-   ‣ Filters keeping system
-   ‣ Approvals and much more.
-   ‣ Managed By @Timesisnotwaiting.
-   ➖➖➖➖➖➖➖➖➖➖➖➖➖
-   ➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪᴇs ××
+
+   ➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ❤️‍🔥
 
    
 
-grp_start_text: "нєу тнєяє👻 ѕιмυкι ιѕ нєяє🥀 ∂σ уσυ ηєє∂ αηу нєℓρ ѕιя? туρє /help тσ gєт му ¢σммqη∂ ℓιѕт💞"
+grp_start_text: "Hey There Simuki is here🙇 Do You Need Any Help Sir? Type /help To know about my command list🚀"
 
 pm_help_text: |
 
@@ -53,7 +45,6 @@ pm_help_text: |
     • /help: PM's you this message.
 
     • /donate: Get Details about Donating which help to improve bots speeds and more.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
 
     Click on the buttons below to get documentation about specific modules!
 
@@ -84,7 +75,6 @@ admin_help: |
    • `/demote`*:* demotes the user replied to
 
    • `/title <title here>`*:* sets a custom title for an admin that the bot promoted
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
 
 afk_help: |
 
@@ -93,7 +83,6 @@ afk_help: |
    - brb <reason>: same as the afk command - but not a command.
 
    When marked as AFK, any mentions will be replied to with a message to say you're not available!
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
 
 anilist_help: |
 
@@ -108,7 +97,7 @@ anilist_help: |
      - /character <character>: returns information about the character.
 
      - /manga <manga>: returns information about the manga.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 antiflood_help: |
 
     Antiflood allows you to take action on users that send more than x messages in a row. Exceeding the set flood
@@ -140,7 +129,7 @@ antiflood_help: |
      `3d` = 3 days
 
      `1w` = 1 week
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 approve_help: |
 
      Sometimes, you might trust a user not to send unwanted content.
@@ -160,7 +149,7 @@ approve_help: |
      • `/approved`*:* List all approved users.
 
      • `/unapproveall`*:* Unapprove *ALL* users in a chat. This cannot be undone.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 backup_help: |
 
     *Admin only:*
@@ -170,7 +159,7 @@ backup_help: |
        that files/photos can't be imported due to telegram restrictions.
 
      - /export: Export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons)
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 bans_help: |
 
     - /kickme: kicks the user who issued the command
@@ -184,7 +173,7 @@ bans_help: |
     - /unban <userhandle>: unbans a user. (via handle, or reply)
 
     - /kick <userhandle>: kick a user out of the group, (via handle, or reply)
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 blacklist_help: |
 
     Blacklists are used to stop certain triggers from being said in a group. Any time the trigger is mentioned, the message will immediately be deleted. A good combo is sometimes to pair this up with warn filters!
@@ -200,7 +189,7 @@ blacklist_help: |
      • `/unblacklist <triggers>`*:* Remove triggers from the blacklist. Same newline logic applies here, so you can remove multiple triggers at once.
 
      • `/blacklistmode <off/del/warn/ban/kick/mute/tban/tmute>`*:* Action to perform when someone sends blacklisted words.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 cleaner_help: |
 
     - /cleanbluetext <on/off/yes/no> - clean commands after sending
@@ -210,7 +199,7 @@ cleaner_help: |
     - /unignorecleanbluetext <word> - remove prevent auto cleaning of the command
 
     - /listcleanbluetext - list currently whitelisted commands
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 connections_help: |
 
     - /connect: connect a chat (Can be done in a group by /connect or /connect <chat id> in PM)
@@ -224,7 +213,7 @@ connections_help: |
      *Admin only:*
 
     - /allowconnect <yes/no>: allow a user to connect to a chat
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 cust_filters_help: |
 
     • `/filters`*:* List all active filters saved in the chat.
@@ -248,7 +237,7 @@ cust_filters_help: |
       *Note*: Filters also support markdown formatters like: {first}, {last} etc.. and buttons.
 
         Check `/markdownhelp` to know more!
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 disable_help: |
 
     Not everyone wants every feature that the bot offers. Some commands are best
@@ -268,7 +257,7 @@ disable_help: |
      • /disable <cmd name>: Disable that command
 
      • /listcmds: List all possible disablable commands
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 feds_help: |
 
     Everything is fun, until a spammer starts entering your group, and you have to block it. Then you need to start banning more, and more, and it hurts.
@@ -282,7 +271,7 @@ feds_help: |
     
 
     *Click on the buttons below to learn in depth about all the commands.*
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 FED_OWNER_HELP: | 
 
     *Fed Owner Only:*
@@ -308,7 +297,7 @@ FED_OWNER_HELP: |
     • `/fbroadcast <message>`*:* Broadcasts a messages to all groups that have joined your fed
 
     • `/fedsubs`*:* Shows the feds your group is subscribed to `(broken rn)`
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 FED_ADMIN_HELP: |
 
     *Fed Admins:*
@@ -332,7 +321,7 @@ FED_ADMIN_HELP: |
     • `/fedchats`*:* Get all the chats that are connected in the Federation
 
     • `/chatfed `*:* See the Federation in the current chat
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 FED_USER_HELP: | 
 
     *Any user:*
@@ -342,11 +331,11 @@ FED_USER_HELP: |
     • `/fednotif <on/off>`*:* Federation settings not in PM when there are users who are fbaned/unfbanned
 
     • `/frules`*:* See Federation regulations
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 formt_help_bse: |
 
-    ꜱɪᴍᴜᴋɪ supports a large number of formatting options to make your messages more expressive. Take a look!
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+    Anie supports a large number of formatting options to make your messages more expressive. Take a look!
+
 md_help: |
 
     <b>Markdown Formatting</b>
@@ -378,7 +367,7 @@ md_help: |
       <code>[button 3](buttonurl://example.com)</code>
 
       This will show button 1 and 2 on the same line, with 3 underneath.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 filling_help: |
 
       <b>Fillings</b>
@@ -402,7 +391,7 @@ filling_help: |
       - <code>{id}</code>: The user's ID.
 
       - <code>{chatname}</code>: The chat's name.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 fun_help: |
 
      • /runs: reply a random string from an array of replies.
@@ -430,7 +419,7 @@ fun_help: |
      • /getsticker: reply to a sticker to get the raw PNG image.
 
      • /steal: reply to a sticker or image to add it to your pack.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 antispam_help: |
 
      *Admins only:*
@@ -452,7 +441,7 @@ antispam_help: |
      Constantly help banning spammers off from your group automatically So, you wont have to worry about spammers storming your group.
 
      *Note:* Users can appeal spamwatch bans at @SpamwatchSupport
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 gtranslate_help: |
 
      Use this module to translate stuff... duh!
@@ -506,7 +495,7 @@ locks_help: |
       • Unlocking permission *info* will allow members (non-admins) to change the group information, such as the description or the group name
 
       • Unlocking permission *pin* will allow members (non-admins) to pinned a message in a group
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 log_help: |
 
       *Admins only:*
@@ -526,7 +515,7 @@ log_help: |
       • sending `/setlog` in the channel
 
       • forwarding the `/setlog` to the group
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 markdown_help_text: |
 
       Markdown is a very powerful formatting tool supported by telegram. Kigyo has some enhancements, to make sure that
@@ -562,7 +551,7 @@ markdown_help_text: |
       This will create two buttons on a single line, instead of one button per line.
 
       Keep in mind that your message <b>MUST</b> contain some text other than just a button!
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 misc_help: |
 
       • /id: get the current group id. If used by replying to a message, gets that user's id.
@@ -622,7 +611,7 @@ misc_help: |
       • /antilinkedchan <on/off>: Makes Kigyo automatically delete linked channel posts from chatroom
 
       • /antichannelpin <on/off>: Makes Kigyo automatically unpin linked channel posts from chatroom
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 muting_help: |
 
       *Admins only:*
@@ -662,7 +651,7 @@ notes_help: |
        • `/removeallnotes`*:* removes all notes from the group
 
        *Note:* Note names are case-insensitive, and they are automatically converted to lowercase before getting saved.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 purge_help: |
 
        *Admin only:*
@@ -688,7 +677,7 @@ reports_help: |
           • If done in pm, toggles your status.
 
           • If in group, toggles that groups's status.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 rules_help: |
 
       • `/rules`*:* get the rules for this chat.
@@ -698,7 +687,7 @@ rules_help: |
       • `/setrules <your rules here>`*:* set the rules for this chat.
 
       • `/clearrules`*:* clear the rules for this chat.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 userinfo_help: |
 
       - /setbio <text>: while replying, will save another user's bio
@@ -708,7 +697,7 @@ userinfo_help: |
       - /setme <text>: will set your info
 
       - /me: will get your or another user's info
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 warns_help: |
 
       • `/warns <userhandle>`*:* get a user's number, and reason, of warns.
@@ -730,7 +719,7 @@ warns_help: |
       • `/warnlimit <num>`*:* set the warning limit
 
       • `/strongwarn <on/yes/off/no>`*:* If set to on, exceeding the warn limit will result in a ban. Else, will just kick.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 greetings_help: |
 
       *Admins only:*
@@ -764,7 +753,7 @@ greetings_help: |
       *Welcome markdown:*
 
        • `/welcomehelp`*:* view more formatting information for custom welcome/goodbye messages.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 nation_help: |
 
       - /eagle - Lists all Eagle Union members.
@@ -780,7 +769,7 @@ nation_help: |
       Note: These commands list users with special bot priveleges and can only be used by them.
 
       You can visit @AnieBots to query more about these.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 nlp_help: |
 
       *Chatroom Spam Prediction*
@@ -796,7 +785,7 @@ nlp_help: |
        *Command:*
 
         • `/nlpstat <on/off/yes/no>`*:* toggle NLP in your chat.
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 sticker_blacklist_help: |
 
        **Only admin:**
@@ -812,7 +801,7 @@ sticker_blacklist_help: |
        Note:
 
          • `<sticker link>` can be `https://t.me/addstickers/<sticker>` or just `<sticker>` or reply to the sticker message
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
+
 raid_help: |
 
   Ever had your group raided by spammers or bots?
@@ -840,5 +829,3 @@ raid_help: |
   • /raidactiontime `(time optional)` : view or set the default duration that the raid mode will tempban
 
   Default is 1 hour
-⚠️ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ @Epicbotssl ʙᴇꜰᴏʀᴇ ᴜꜱɪɴɢ ᴍᴇ ⚠️
-
