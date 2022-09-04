@@ -43,6 +43,11 @@
       "description": "Your Id, Go To @Zaid2_Robot Pm and Type /id..",
       "value": ""
     },
+    "MONGO_URI": {
+      "description": "Get this value from mongodb.com",
+      "required": true,
+      "value": "mongodb+srv://epic:epic@cluster0.257eaxu.mongodb.net/?retryWrites=true&w=majority"
+    },
     "OWNER_USERNAME": {
       "description": "Your Telegram Username..",
       "value": ""
