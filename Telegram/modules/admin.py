@@ -43,10 +43,9 @@ def promote(update: Update, context: CallbackContext) -> Optional[str]:
         return
     """
     user_id = extract_user(message, args)
-    FSub = await ForceSub(bot, update)
-    if FSub == 400:
+    fsub = await ForceSub(message, args)
+    if fsub == 400:
         return
-
     if not user_id:
         message.reply_text(
             "You don't seem to be referring to a user or the ID specified is incorrect.."
