@@ -1,5 +1,6 @@
 import html
 from typing import Optional
+import asyncio
 
 from telegram import ParseMode, Update
 from telegram.error import BadRequest
@@ -25,7 +26,7 @@ from fsub import ForceSub
 @can_promote
 @user_admin(AdminPerms.CAN_PROMOTE_MEMBERS)
 @loggable
-def promote(update: Update, context: CallbackContext) -> Optional[str]:
+async def promote(update: Update, context: CallbackContext) -> Optional[str]:
     bot = context.bot
     args = context.args
 
