@@ -26,9 +26,6 @@ from fsub import ForceSub
 @user_admin(AdminPerms.CAN_PROMOTE_MEMBERS)
 @loggable
 def promote(update: Update, context: CallbackContext) -> Optional[str]:
-    FSub = await ForceSub(bot, update)
-    if FSub == 400:
-        return
     bot = context.bot
     args = context.args
 
@@ -46,6 +43,9 @@ def promote(update: Update, context: CallbackContext) -> Optional[str]:
         return
     """
     user_id = extract_user(message, args)
+    FSub = await ForceSub(bot, update)
+    if FSub == 400:
+        return
 
     if not user_id:
         message.reply_text(
