@@ -27,6 +27,9 @@ from fsub import ForceSub
 @user_admin(AdminPerms.CAN_PROMOTE_MEMBERS)
 @loggable
 async def promote(update: Update, context: CallbackContext) -> Optional[str]:
+    fsub = await ForceSub(message, args)
+    if fsub == 400:
+        return
     bot = context.bot
     args = context.args
 
@@ -44,9 +47,6 @@ async def promote(update: Update, context: CallbackContext) -> Optional[str]:
         return
     """
     user_id = extract_user(message, args)
-    fsub = await ForceSub(message, args)
-    if fsub == 400:
-        return
     if not user_id:
         message.reply_text(
             "You don't seem to be referring to a user or the ID specified is incorrect.."
