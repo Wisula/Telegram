@@ -4,7 +4,7 @@ from pyrogram import Client
 from pyrogram.errors import FloodWait, UserNotParticipant
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 
-uchannel = "CGSUpdates"
+uchannel = "EpicBotsSlp"
 
 async def ForceSub(bot: Client, event: Message):
     try:
