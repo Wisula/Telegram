@@ -19,9 +19,22 @@ from fsub import ForceSub
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-UPDATES_CHANNEL = "CGSUpdates"
+UPDATES_CHANNEL = "CGSUPDATES"
 
+btn = InlineKeyboardMarkup(
+        [[
+        InlineKeyboardButton("UPDATES 📢", url="https://t.me/CGSUPDATES"),
+        InlineKeyboardButton("SUPPORT 💬", url="https://t.me/CGSsupport")
+        ],[
+        InlineKeyboardButton("help 🌟", callback="help"),
+        ]]
 
+    )
+
+STARTREXT = """ hello welcome bot
+hello
+"""
+    
 
 @Client.on_message(filters.command("start"))
 async def start(bot, update):
@@ -30,8 +43,8 @@ async def start(bot, update):
         return
     await bot.send_message(
         chat_id=update.chat.id,
-        text=pm_start_text,
-        reply_markup=,
+        text=STARTEXT,
+        reply_markup=btn,
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
     )
