@@ -146,34 +146,10 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                     [ 
                         [
                             InlineKeyboardButton(
-                                text=gs(chat.id, "add_bot_to_group_btn"),
-                                url="t.me/{}?startgroup=true".format(
+                                text=gs(chat.id, "Join Channel"),
+                                url="t.me/epicbotssl".format(
                                     context.bot.username
                                 ),
-                            ),
-                        ],
-                        [
-                            InlineKeyboardButton(
-                                text=gs(chat.id, "owner_btn"),
-                                url=f'https://t.me/{OWNER_USERNAME}',
-                            ),
-                            InlineKeyboardButton(
-                                text=gs(chat.id, "source_btn"),
-                                url="https://github.com/wisula",
-                            ),
-                        ],
-                        [
-                            InlineKeyboardButton(
-                                text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/EpicChats',
-                            ),
-                            InlineKeyboardButton(
-                                text="Help",
-                                callback_data="help_back",
-                            ),
-                            InlineKeyboardButton(
-                                text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/EpicBotsSl",
                             ),
                         ],
                     ]
